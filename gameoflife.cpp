@@ -6,13 +6,12 @@
 
 using namespace std;
 
-const int WIDTH = 60; // width of the grid
-const int HEIGHT = 56; // height of the grid
+const int WIDTH = 60; // Grid width
+const int HEIGHT = 56; // Grid height
 
-vector<vector<int>> grid(WIDTH, vector<int>(HEIGHT)); // create a 2D vector to hold the grid
+vector<vector<int>> grid(WIDTH, vector<int>(HEIGHT));
 
 void printGrid() {
-    // print the current state of the grid
     clrscr();
     for (int y = 0; y < HEIGHT; y++) {
         for (int x = 0; x < WIDTH; x++) {
