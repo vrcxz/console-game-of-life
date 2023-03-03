@@ -51,6 +51,8 @@ void updateGrid() {
 }
 
 int main() {
+
+//Ship go brrrrrr
     grid[1][0] = 1;
     grid[2][1] = 1;
     grid[0][2] = 1;
