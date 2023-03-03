@@ -1,2 +1,2 @@
 # console-game-of-life
-A simple console-based game of life with vector cellular automaton.
+A simple Game of Life in a vector-based cellular automata that runs in your console.
