@@ -26,7 +26,6 @@ void printGrid() {
 }
 
 void updateGrid() {
-    // update the state of the grid based on the current state
     vector<vector<int>> newGrid(WIDTH, vector<int>(HEIGHT));
     for (int y = 0; y < HEIGHT; y++) {
         for (int x = 0; x < WIDTH; x++) {
