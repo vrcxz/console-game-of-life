@@ -1,7 +1,7 @@
 # console-game-of-life
 A simple Game of Life in a vector-based cellular automata that runs in your console.
 
-`Note: The emscripten generated file isn't working for now. I will get back on working it next time (...maybe).`
+`Note: The emscripten generated file isn't working for now. I will get back on working on it next time (...hopefully).`
 
 
 ---
