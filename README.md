@@ -6,7 +6,7 @@ A simple Game of Life in a vector-based cellular automata that runs in your cons
 
 ---
 
-
+[Gif](https://github.com/vonnogadas/console-game-of-life/blob/c6e8756f6dac08c87fdc568ea1f045be95cd73da/Screenrecording_20230303_102252.gif):
 ![ss](https://github.com/vonnogadas/console-game-of-life/blob/c6e8756f6dac08c87fdc568ea1f045be95cd73da/Screenrecording_20230303_102252.gif)
 
 
